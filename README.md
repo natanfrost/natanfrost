@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natanfrost
+- 👋 Hi, I’m Nataniel Richardt
 - 👀 I’m interested in new opportunities and learning experiences =]
 - 🌱 I’m currently learning more about ReactJS, NestJS, GraphQL and .Net Core
 - 📫 You can reach me by e-mail: nataniel.r.v@gmail.com
