@@ -3,3 +3,4 @@
 - 🌱 Experience in: C# (.net core, .net framework), JavaScript/TypeScript (React), MySQL, SQL Server
 - 🤠 Knowledge in: Java, Python
 - 📫 You can reach me by e-mail: nataniel.r.v@gmail.com
+- 📜 Currently learning Flutter
